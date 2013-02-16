@@ -1,0 +1,752 @@
+[Thu Oct 04 12:11:04 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Thu Oct 04 12:11:04 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 04 12:11:04 2012] [notice] Digest: done
+[Thu Oct 04 12:11:04 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Thu Oct 04 12:11:22 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Thu Oct 04 12:20:00 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Thu Oct 04 12:49:22 2012] [notice] caught SIGTERM, shutting down
+[Thu Oct 04 12:50:03 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Thu Oct 04 12:50:03 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 04 12:50:03 2012] [notice] Digest: done
+[Thu Oct 04 12:50:03 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Fri Oct 05 08:18:16 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:19:01 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:33:48 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:33:48 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.icod
+[Fri Oct 05 08:34:47 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:35:39 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:35:58 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:36:17 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:36:41 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:37:08 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:38:21 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:39:06 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:39:42 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:40:29 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:41:35 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:43:06 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:43:31 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 08:44:32 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:04:23 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:04:32 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:07:21 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:09:04 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:09:13 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:09:57 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:17:07 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:17:44 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:19:21 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:19:41 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:20:57 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:21:16 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 09:25:00 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 11:46:54 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/test2.html
+[Fri Oct 05 11:46:54 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 11:47:01 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 11:47:15 2012] [notice] caught SIGTERM, shutting down
+[Fri Oct 05 11:47:24 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Fri Oct 05 11:47:24 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Oct 05 11:47:24 2012] [notice] Digest: done
+[Fri Oct 05 11:47:24 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Fri Oct 05 11:47:27 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/test.html
+[Fri Oct 05 11:47:27 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:47:30 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/test.html
+[Fri Oct 05 11:47:31 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:47:32 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/test.html
+[Fri Oct 05 11:47:33 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:47:35 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/test.html
+[Fri Oct 05 11:47:35 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:47:43 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/test2.html
+[Fri Oct 05 11:47:43 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:47:47 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:48:26 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:48:28 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/test2.html
+[Fri Oct 05 11:48:28 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:48:52 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/test2.html
+[Fri Oct 05 11:48:52 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:49:14 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/test3.html
+[Fri Oct 05 11:49:14 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:49:17 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/test3.html
+[Fri Oct 05 11:49:17 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:49:37 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/test33.html
+[Fri Oct 05 11:49:37 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:49:43 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:49:50 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:50:32 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:50:36 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:50:41 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/
+[Fri Oct 05 11:50:41 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:50:44 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/
+[Fri Oct 05 11:50:44 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:50:47 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/
+[Fri Oct 05 11:50:47 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 11:50:49 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/
+[Fri Oct 05 11:50:49 2012] [error] [client ::1] client denied by server configuration: /Users/nhn/webRoot/favicon.ico
+[Fri Oct 05 12:02:56 2012] [notice] caught SIGTERM, shutting down
+[Fri Oct 05 12:02:58 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Fri Oct 05 12:02:58 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Oct 05 12:02:58 2012] [notice] Digest: done
+[Fri Oct 05 12:02:58 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Fri Oct 05 12:03:01 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 12:03:05 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 12:09:06 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 12:11:14 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Oct 05 12:11:17 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 07:49:11 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 07:49:15 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/test3.html
+[Mon Oct 08 07:49:15 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 07:49:51 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 07:50:59 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 07:51:23 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:10:45 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:12:03 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:18:50 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:30:34 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:37:58 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:38:13 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:43:36 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:44:01 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:45:16 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:45:55 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:46:27 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:47:09 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:49:26 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:49:36 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:50:48 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:51:09 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:51:51 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:52:34 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:52:40 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:53:46 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:54:21 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:54:49 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:57:34 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 08:57:49 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:05:37 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:05:51 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:06:48 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:07:35 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:08:54 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:09:40 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:09:59 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:10:24 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:11:16 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:11:32 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:15:49 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:16:16 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:16:32 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:17:00 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:17:08 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:17:19 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:18:23 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:19:24 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:20:23 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:21:48 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:22:21 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:25:40 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:25:57 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:25:59 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:27:03 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:30:06 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 09:32:48 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 12:20:46 2012] [notice] caught SIGTERM, shutting down
+[Mon Oct 08 12:21:28 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Mon Oct 08 12:21:28 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 08 12:21:28 2012] [notice] Digest: done
+[Mon Oct 08 12:21:28 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Oct 08 14:37:11 2012] [notice] caught SIGTERM, shutting down
+[Tue Oct 09 01:06:24 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Tue Oct 09 01:06:24 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 09 01:06:24 2012] [notice] Digest: done
+[Tue Oct 09 01:06:24 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Oct 08 18:03:01 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:03:01 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:03:12 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:03:12 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:03:27 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:03:27 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:03:30 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:03:30 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:04:47 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:04:47 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:04:59 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:04:59 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:05:15 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:05:15 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:18:57 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:18:57 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:19:23 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg
+[Mon Oct 08 18:19:24 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 08 18:19:51 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:19:51 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:19:51 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg
+[Mon Oct 08 18:19:51 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg
+[Mon Oct 08 18:19:55 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg
+[Mon Oct 08 18:19:58 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg
+[Mon Oct 08 18:20:25 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:20:25 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:20:36 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:20:36 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:20:36 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg
+[Mon Oct 08 18:20:36 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg
+[Mon Oct 08 18:22:33 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/test.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Mon Oct 08 18:22:33 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/testa.jpg, referer: http://88.191.128.200/lb_compiled_js.html
+[Tue Oct 09 10:29:55 2012] [notice] caught SIGTERM, shutting down
+[Tue Oct 09 10:39:33 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Tue Oct 09 10:39:33 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 09 10:39:33 2012] [notice] Digest: done
+[Tue Oct 09 10:39:33 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Oct 09 11:01:04 2012] [notice] caught SIGTERM, shutting down
+[Tue Oct 09 20:28:23 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 09 20:28:23 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 09 20:28:23 2012] [notice] Digest: done
+[Tue Oct 09 20:28:24 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Thu Oct 11 14:45:04 2012] [notice] caught SIGTERM, shutting down
+[Thu Oct 11 16:42:51 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Thu Oct 11 16:42:51 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 11 16:42:51 2012] [notice] Digest: done
+[Thu Oct 11 16:42:51 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Fri Oct 12 18:12:16 2012] [notice] caught SIGTERM, shutting down
+[Fri Oct 12 18:13:42 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Fri Oct 12 18:13:43 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Oct 12 18:13:43 2012] [notice] Digest: done
+[Fri Oct 12 18:13:43 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sat Oct 13 07:05:14 2012] [notice] caught SIGTERM, shutting down
+[Mon Oct 15 19:23:06 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 15 19:23:06 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 15 19:23:06 2012] [notice] Digest: done
+[Mon Oct 15 19:23:06 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Oct 15 16:29:17 2012] [notice] caught SIGTERM, shutting down
+[Tue Oct 16 01:35:22 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Tue Oct 16 01:35:22 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 16 01:35:22 2012] [notice] Digest: done
+[Tue Oct 16 01:35:22 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Oct 16 16:19:55 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/pixel.gif, referer: http://cti.w55c.net/ct/rubicon-cms2.html
+[Thu Oct 18 16:07:50 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Thu Oct 18 16:07:50 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 18 16:07:50 2012] [notice] Digest: done
+[Thu Oct 18 16:07:50 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Thu Oct 18 17:05:19 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Thu Oct 18 17:05:19 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 18 17:05:19 2012] [notice] Digest: done
+[Thu Oct 18 17:05:19 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.42) (5)
+[Thu Oct 18 17:05:30 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Thu Oct 18 17:05:30 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 18 17:05:30 2012] [notice] Digest: done
+[Thu Oct 18 17:05:30 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 18 17:05:30 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Oct 22 11:04:03 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 11:07:51 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 11:12:22 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 11:31:57 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 11:36:53 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:05:47 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:07:01 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:07:18 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:07:44 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:08:40 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:09:53 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:10:46 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:11:40 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/scrolling_tiles/tiles2.png)
+[Mon Oct 22 12:11:40 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:11:43 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:13:42 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:14:11 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:14:54 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:16:44 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:17:20 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:20:02 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:27:33 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:27:51 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:28:11 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:29:05 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:30:09 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:33:09 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:33:30 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:36:31 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:40:15 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:41:08 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:42:53 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:43:12 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 12:43:22 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Oct 22 15:23:28 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Mon Oct 22 15:23:28 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 22 15:23:28 2012] [notice] Digest: done
+[Mon Oct 22 15:23:28 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Oct 22 19:14:36 2012] [notice] caught SIGTERM, shutting down
+[Tue Oct 23 13:32:04 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Tue Oct 23 13:32:04 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 23 13:32:04 2012] [notice] Digest: done
+[Tue Oct 23 13:32:04 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.43) (5)
+[Tue Oct 23 13:32:14 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Tue Oct 23 13:32:14 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 23 13:32:14 2012] [notice] Digest: done
+[Tue Oct 23 13:32:14 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 23 13:32:14 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Oct 23 13:35:19 2012] [notice] caught SIGTERM, shutting down
+[Tue Oct 23 19:09:52 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Tue Oct 23 19:09:52 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 23 19:09:52 2012] [notice] Digest: done
+[Tue Oct 23 19:09:52 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Oct 23 19:26:25 2012] [notice] caught SIGTERM, shutting down
+[Wed Oct 24 06:25:36 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Wed Oct 24 06:25:36 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed Oct 24 06:25:36 2012] [notice] Digest: done
+[Wed Oct 24 06:25:36 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Wed Oct 24 07:47:53 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 07:56:52 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 07:57:23 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 08:06:58 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 08:08:31 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 08:46:38 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 08:52:11 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 08:52:28 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 08:52:50 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 08:54:06 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 08:56:56 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 08:57:31 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 08:57:54 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:00:40 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:02:31 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:02:35 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:03:13 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:07:25 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:09:39 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:09:52 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:10:29 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:11:29 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:12:26 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:16:13 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:18:48 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:28:26 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:29:42 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:29:59 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:30:11 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:31:05 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:31:25 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:33:29 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:43:45 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:47:46 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:51:17 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 09:51:26 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Wed Oct 24 16:51:50 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Wed Oct 24 16:51:50 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed Oct 24 16:51:50 2012] [notice] Digest: done
+[Wed Oct 24 16:51:50 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Thu Oct 25 14:04:10 2012] [notice] caught SIGTERM, shutting down
+[Thu Oct 25 14:05:02 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Thu Oct 25 14:05:02 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 25 14:05:02 2012] [notice] Digest: done
+[Thu Oct 25 14:05:02 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.43) (5)
+[Thu Oct 25 14:05:13 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Thu Oct 25 14:05:13 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 25 14:05:13 2012] [notice] Digest: done
+[Thu Oct 25 14:05:13 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 25 14:05:13 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Thu Oct 25 15:23:06 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/non_existant_web_link123511.htm
+[Thu Oct 25 15:23:11 2012] [error] [client 10.66.22.227] Invalid URI in request GET invalid
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] attempt to invoke directory as script: /Library/WebServer/CGI-Executables/
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/eshop.pl
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/a1disp3.cgi
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/a1stats
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/zml.cgi
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/aglimpse
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/publisher
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/ezshopper2
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/error
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/doc
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/server-info
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/server-status
+[Thu Oct 25 15:23:18 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/site
+[Thu Oct 25 15:23:21 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/store.cgi
+[Thu Oct 25 15:23:21 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/auktion.cgi
+[Thu Oct 25 15:23:21 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/bsguest.cgi
+[Thu Oct 25 15:23:21 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/bslist.cgi
+[Thu Oct 25 15:23:24 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/cowsconf
+[Thu Oct 25 15:23:24 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/cowsconf
+[Thu Oct 25 15:23:24 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/DCShop
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/edit_image.php
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/story.pl
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/directory.php
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/directory.php
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/code
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/faqmanager.cgi
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/foldoc
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/auktion.pl
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/hsx.cgi
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/ikonboard
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/Admin_files
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/mrtg.cgi
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/14all.cgi
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/14all-1.1.cgi
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/traffic.cgi
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/mrtg.cgi
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/admin-serv
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/PSUser
+[Thu Oct 25 15:23:25 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/perl
+[Thu Oct 25 15:23:28 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/index.php
+[Thu Oct 25 15:23:28 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/index.php
+[Thu Oct 25 15:23:28 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/modules.php
+[Thu Oct 25 15:23:28 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/ROADS
+[Thu Oct 25 15:23:28 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/sendtemp.pl
+[Thu Oct 25 15:23:28 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/scripts
+[Thu Oct 25 15:23:28 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/talkback.cgi
+[Thu Oct 25 15:23:28 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/examples
+[Thu Oct 25 15:23:28 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/ustorekeeper.pl
+[Thu Oct 25 15:23:31 2012] [error] [client 10.66.22.227] File does not exist: /Library/WebServer/Documents/way-board
+[Thu Oct 25 15:23:34 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/build.cgi
+[Thu Oct 25 15:23:35 2012] [error] [client 10.66.22.227] script not found or unable to stat: /Library/WebServer/CGI-Executables/ad.cgi
+[Thu Oct 25 16:57:44 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Thu Oct 25 16:57:44 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 25 16:57:44 2012] [notice] Digest: done
+[Thu Oct 25 16:57:44 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Fri Oct 26 19:17:47 2012] [notice] caught SIGTERM, shutting down
+[Sat Oct 27 11:05:33 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Oct 27 11:05:33 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 27 11:05:33 2012] [notice] Digest: done
+[Sat Oct 27 11:05:34 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sat Oct 27 14:40:33 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Oct 27 14:40:33 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 27 14:40:33 2012] [notice] Digest: done
+[Sat Oct 27 14:40:33 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.43) (5)
+[Sat Oct 27 14:40:42 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Oct 27 14:40:42 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 27 14:40:42 2012] [notice] Digest: done
+[Sat Oct 27 14:40:42 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Oct 27 14:40:42 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sat Oct 27 14:42:10 2012] [notice] caught SIGTERM, shutting down
+[Sat Oct 27 14:43:07 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Oct 27 14:43:07 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Oct 27 14:43:07 2012] [notice] Digest: done
+[Sat Oct 27 14:43:07 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Oct 30 16:44:48 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/test.funmin, referer: http://funmin.com/online-games/n-puzzle/index.php
+[Wed Oct 31 18:25:45 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Wed Oct 31 18:25:45 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed Oct 31 18:25:45 2012] [notice] Digest: done
+[Wed Oct 31 18:25:45 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sat Nov 03 19:15:04 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Nov 03 19:15:04 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 03 19:15:04 2012] [notice] Digest: done
+[Sat Nov 03 19:15:04 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sat Nov 03 13:09:49 2012] [notice] caught SIGTERM, shutting down
+[Sat Nov 03 22:44:25 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Nov 03 22:44:25 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 03 22:44:25 2012] [notice] Digest: done
+[Sat Nov 03 22:44:25 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sun Nov 04 20:40:37 2012] [notice] caught SIGTERM, shutting down
+[Mon Nov 05 18:02:47 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Nov 05 18:02:47 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 05 18:02:47 2012] [notice] Digest: done
+[Mon Nov 05 18:02:47 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Nov 05 09:12:02 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Nov 05 09:12:02 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 05 09:12:02 2012] [notice] Digest: done
+[Mon Nov 05 09:12:02 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.43) (5)
+[Mon Nov 05 09:12:11 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Nov 05 09:12:11 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 05 09:12:11 2012] [notice] Digest: done
+[Mon Nov 05 09:12:11 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 05 09:12:11 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Nov 05 09:18:15 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Nov 05 09:18:15 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 05 09:18:15 2012] [notice] Digest: done
+[Mon Nov 05 09:18:15 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Nov 05 10:17:52 2012] [notice] caught SIGTERM, shutting down
+[Mon Nov 05 10:18:26 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Nov 05 10:18:26 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 05 10:18:26 2012] [notice] Digest: done
+[Mon Nov 05 10:18:26 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Nov 05 17:15:59 2012] [notice] caught SIGTERM, shutting down
+[Mon Nov 05 17:20:37 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Nov 05 17:20:37 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 05 17:20:37 2012] [notice] Digest: done
+[Mon Nov 05 17:20:37 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Nov 05 17:23:30 2012] [notice] caught SIGTERM, shutting down
+[Mon Nov 05 17:24:22 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Nov 05 17:24:22 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 05 17:24:22 2012] [notice] Digest: done
+[Mon Nov 05 17:24:23 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Nov 05 17:25:45 2012] [notice] caught SIGTERM, shutting down
+[Mon Nov 05 17:26:16 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Nov 05 17:26:17 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 05 17:26:17 2012] [notice] Digest: done
+[Mon Nov 05 17:26:17 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Nov 05 17:26:51 2012] [notice] caught SIGTERM, shutting down
+[Tue Nov 06 17:22:45 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Tue Nov 06 17:22:45 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 06 17:22:45 2012] [notice] Digest: done
+[Tue Nov 06 17:22:45 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Nov 06 17:23:52 2012] [notice] caught SIGTERM, shutting down
+[Wed Nov 07 19:06:10 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Wed Nov 07 19:06:10 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 07 19:06:10 2012] [notice] Digest: done
+[Wed Nov 07 19:06:10 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Thu Nov 08 10:58:31 2012] [notice] caught SIGTERM, shutting down
+[Sun Jan 01 09:00:12 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sun Jan 01 09:00:12 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Jan 01 09:00:12 2012] [notice] Digest: done
+[Sun Jan 01 09:00:12 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sun Jan 01 09:00:28 2012] [notice] caught SIGTERM, shutting down
+[Sun Jan 01 09:00:31 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sun Jan 01 09:00:31 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Jan 01 09:00:31 2012] [notice] Digest: done
+[Sun Jan 01 09:00:31 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Fri Nov 09 14:25:39 2012] [notice] caught SIGTERM, shutting down
+[Fri Nov 09 15:10:19 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Fri Nov 09 15:10:19 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 09 15:10:19 2012] [notice] Digest: done
+[Fri Nov 09 15:10:19 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Fri Nov 09 15:11:23 2012] [notice] caught SIGTERM, shutting down
+[Tue Nov 13 14:16:50 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Tue Nov 13 14:16:50 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 13 14:16:50 2012] [notice] Digest: done
+[Tue Nov 13 14:16:50 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Nov 13 18:23:10 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Tue Nov 13 18:23:57 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Tue Nov 13 18:23:58 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Fri Nov 16 16:55:22 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Fri Nov 16 16:55:22 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 16 16:55:22 2012] [notice] Digest: done
+[Fri Nov 16 16:55:22 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sat Nov 17 16:35:40 2012] [notice] caught SIGTERM, shutting down
+[Sat Nov 17 16:36:14 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Nov 17 16:36:14 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 17 16:36:14 2012] [notice] Digest: done
+[Sat Nov 17 16:36:14 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.43) (5)
+[Sat Nov 17 16:36:23 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Nov 17 16:36:23 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 17 16:36:23 2012] [notice] Digest: done
+[Sat Nov 17 16:36:23 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Nov 17 16:36:23 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sat Nov 17 16:36:37 2012] [notice] caught SIGTERM, shutting down
+[Sat Nov 17 16:44:21 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Nov 17 16:44:21 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Nov 17 16:44:21 2012] [notice] Digest: done
+[Sat Nov 17 16:44:21 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Thu Nov 22 15:55:40 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Thu Nov 22 15:55:40 2012] [notice] Digest: generating secret for digest authentication ...
+[Thu Nov 22 15:55:40 2012] [notice] Digest: done
+[Thu Nov 22 15:55:40 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Fri Nov 23 10:19:11 2012] [notice] caught SIGTERM, shutting down
+[Fri Nov 23 10:19:46 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Fri Nov 23 10:19:46 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 23 10:19:46 2012] [notice] Digest: done
+[Fri Nov 23 10:19:46 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.43) (5)
+[Fri Nov 23 10:19:55 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Fri Nov 23 10:19:55 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 23 10:19:55 2012] [notice] Digest: done
+[Fri Nov 23 10:19:55 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 23 10:19:55 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Nov 26 09:40:02 2012] [notice] caught SIGTERM, shutting down
+[Mon Nov 26 09:40:36 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Nov 26 09:40:36 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 26 09:40:36 2012] [notice] Digest: done
+[Mon Nov 26 09:40:36 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Nov 26 09:40:48 2012] [notice] caught SIGTERM, shutting down
+[Mon Nov 26 19:06:53 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Nov 26 19:06:53 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 26 19:06:53 2012] [notice] Digest: done
+[Mon Nov 26 19:06:53 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Nov 26 15:42:55 2012] [notice] caught SIGTERM, shutting down
+[Tue Nov 27 17:21:30 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Tue Nov 27 17:21:30 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 27 17:21:30 2012] [notice] Digest: done
+[Tue Nov 27 17:21:30 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Nov 27 08:31:42 2012] [notice] caught SIGTERM, shutting down
+[Tue Nov 27 08:32:19 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Nov 27 08:32:19 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 27 08:32:19 2012] [notice] Digest: done
+[Tue Nov 27 08:32:19 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Nov 27 08:32:58 2012] [notice] caught SIGTERM, shutting down
+[Wed Nov 28 00:10:24 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Wed Nov 28 00:10:24 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 28 00:10:24 2012] [notice] Digest: done
+[Wed Nov 28 00:10:24 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Nov 27 16:23:31 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Tue Nov 27 16:23:31 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 27 16:23:31 2012] [notice] Digest: done
+[Tue Nov 27 16:23:31 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.42) (5)
+[Tue Nov 27 16:23:41 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Tue Nov 27 16:23:41 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 27 16:23:41 2012] [notice] Digest: done
+[Tue Nov 27 16:23:41 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Nov 27 16:23:41 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Wed Nov 28 17:52:27 2012] [notice] caught SIGTERM, shutting down
+[Wed Nov 28 19:32:23 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Wed Nov 28 19:32:23 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 28 19:32:23 2012] [notice] Digest: done
+[Wed Nov 28 19:32:23 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Fri Nov 30 10:04:42 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Fri Nov 30 10:04:43 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 30 10:04:43 2012] [notice] Digest: done
+[Fri Nov 30 10:04:43 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.43) (5)
+[Fri Nov 30 10:04:52 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Fri Nov 30 10:04:52 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Nov 30 10:04:52 2012] [notice] Digest: done
+[Fri Nov 30 10:04:52 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Fri Nov 30 10:04:52 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Dec 10 14:03:15 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Mon Dec 10 14:03:15 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Dec 10 14:03:15 2012] [notice] Digest: done
+[Mon Dec 10 14:03:15 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Wed Dec 12 13:49:29 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Wed Dec 12 13:49:29 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed Dec 12 13:49:29 2012] [notice] Digest: done
+[Wed Dec 12 13:49:29 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sat Dec 15 21:54:06 2012] [notice] caught SIGTERM, shutting down
+[Sat Dec 15 21:55:30 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Dec 15 21:55:30 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Dec 15 21:55:30 2012] [notice] Digest: done
+[Sat Dec 15 21:55:30 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Dec 17 13:28:11 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Mon Dec 17 13:28:11 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Dec 17 13:28:11 2012] [notice] Digest: done
+[Mon Dec 17 13:28:11 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Tue Dec 18 10:13:31 2012] [notice] caught SIGTERM, shutting down
+[Tue Dec 18 10:14:35 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Tue Dec 18 10:14:35 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Dec 18 10:14:35 2012] [notice] Digest: done
+[Tue Dec 18 10:14:35 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.43) (5)
+[Tue Dec 18 10:14:45 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Tue Dec 18 10:14:45 2012] [notice] Digest: generating secret for digest authentication ...
+[Tue Dec 18 10:14:45 2012] [notice] Digest: done
+[Tue Dec 18 10:14:45 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 18 10:14:45 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Fri Dec 21 17:09:42 2012] [notice] caught SIGTERM, shutting down
+[Fri Dec 21 20:26:49 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Fri Dec 21 20:26:49 2012] [notice] Digest: generating secret for digest authentication ...
+[Fri Dec 21 20:26:49 2012] [notice] Digest: done
+[Fri Dec 21 20:26:50 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sun Dec 23 08:05:24 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sun Dec 23 08:05:24 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Dec 23 08:05:24 2012] [notice] Digest: done
+[Sun Dec 23 08:05:24 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.43) (5)
+[Sun Dec 23 08:05:33 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sun Dec 23 08:05:33 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Dec 23 08:05:33 2012] [notice] Digest: done
+[Sun Dec 23 08:05:33 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 23 08:05:33 2012] [emerg] (17)File exists: Couldn't create accept lock (/private/var/log/apache2/accept.lock.215) (5)
+[Sun Dec 23 08:05:43 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sun Dec 23 08:05:43 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Dec 23 08:05:43 2012] [notice] Digest: done
+[Sun Dec 23 08:05:44 2012] [warn] pid file /private/var/run/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Dec 23 08:05:44 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sun Dec 23 09:24:42 2012] [notice] caught SIGTERM, shutting down
+[Sun Dec 23 21:19:14 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sun Dec 23 21:19:14 2012] [notice] Digest: generating secret for digest authentication ...
+[Sun Dec 23 21:19:14 2012] [notice] Digest: done
+[Sun Dec 23 21:19:14 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Dec 24 17:17:16 2012] [notice] caught SIGTERM, shutting down
+[Mon Dec 24 21:23:47 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Dec 24 21:23:47 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Dec 24 21:23:47 2012] [notice] Digest: done
+[Mon Dec 24 21:23:47 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Dec 24 23:15:15 2012] [notice] caught SIGTERM, shutting down
+[Wed Dec 26 19:17:28 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Dec 26 19:17:28 2012] [notice] Digest: generating secret for digest authentication ...
+[Wed Dec 26 19:17:28 2012] [notice] Digest: done
+[Wed Dec 26 19:17:28 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sat Dec 29 10:07:15 2012] [notice] caught SIGTERM, shutting down
+[Sat Dec 29 19:40:57 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Sat Dec 29 19:40:57 2012] [notice] Digest: generating secret for digest authentication ...
+[Sat Dec 29 19:40:57 2012] [notice] Digest: done
+[Sat Dec 29 19:40:57 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sun Dec 30 15:49:58 2012] [notice] caught SIGTERM, shutting down
+[Mon Dec 31 03:11:42 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using nhnui-MacBook-Pro.local for ServerName
+[Mon Dec 31 03:11:42 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Dec 31 03:11:42 2012] [notice] Digest: done
+[Mon Dec 31 03:11:42 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Sun Dec 30 18:19:41 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Sun Dec 30 18:19:58 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Sun Dec 30 18:22:31 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Sun Dec 30 18:22:50 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Sun Dec 30 18:22:54 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Sun Dec 30 18:36:43 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Sun Dec 30 21:08:41 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/delivery, referer: http://news.hankooki.com/ad/hk_ad_page_250250.htm
+[Sun Dec 30 21:09:43 2012] [error] [client 127.0.0.1] File does not exist: /Library/WebServer/Documents/delivery, referer: http://www.segye.com/Articles/News/Society/Article.asp?aid=20121230020727&ctg1=01&ctg2=&subctg1=01&subctg2=&cid=0101080100000&OutUrl=naver
+[Mon Dec 31 14:52:19 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Dec 31 14:52:22 2012] [error] [client ::1] File does not exist: /Library/WebServer/Documents/favicon.ico
+[Mon Dec 31 14:55:16 2012] [notice] caught SIGTERM, shutting down
+[Mon Dec 31 14:55:56 2012] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Dec 31 14:55:56 2012] [notice] Digest: generating secret for digest authentication ...
+[Mon Dec 31 14:55:56 2012] [notice] Digest: done
+[Mon Dec 31 14:55:56 2012] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
+[Mon Dec 31 14:56:10 2012] [notice] caught SIGTERM, shutting down
+[Tue Jan 01 00:34:25 2013] [warn] Init: Session Cache is not configured [hint: SSLSessionCache]
+httpd: Could not reliably determine the server's fully qualified domain name, using ::1 for ServerName
+[Tue Jan 01 00:34:25 2013] [notice] Digest: generating secret for digest authentication ...
+[Tue Jan 01 00:34:25 2013] [notice] Digest: done
+[Tue Jan 01 00:34:25 2013] [notice] Apache/2.2.22 (Unix) DAV/2 mod_ssl/2.2.22 OpenSSL/0.9.8r configured -- resuming normal operations
