@@ -114,7 +114,7 @@ namespace loganalyzer
         {
             if (args.Length < 2)
             {
-                System.Console.WriteLine("<usage> loganalyzer.exe logfilename [outputfilename]");
+                System.Console.WriteLine("<usage> loganalyzer.exe [logfilename] [outputfilename]");
                 return;
             }
 
